@@ -1,1 +1,1 @@
-# Banking-Management-System-using-C-
+A project on Banking Management System created using C, with various functionalities like creating new account, updating information of existing account, checking transactions, checking the details of existing account, removing existing account, viewing customer's list etc.
